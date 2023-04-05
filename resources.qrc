@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/AnsweringMachine.jpg</file>
+        <file>images/Engineer.jpg</file>
+        <file>images/Operator.jpg</file>
+    </qresource>
+</RCC>
